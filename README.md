@@ -1,3 +1,6 @@
+<img width="720" alt="Captura de Tela 2024-06-06 às 15 02 36" src="https://github.com/mila-developer/investment-calculator/assets/81877746/a3673095-a05b-4597-a6bf-a0c9f9b177e7">
+
+
 # EssentialsPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
